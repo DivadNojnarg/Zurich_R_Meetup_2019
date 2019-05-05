@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 201.471 202.275" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol id="Heart" data-name="Heart" viewBox="0 0 90 123.69">
+      <circle class="cls-1" cx="45" cy="78.7" r="45" style="fill: rgb(253, 234, 191);"/>
+      <text class="cls-2" transform="translate(28 114.02)" style="white-space: pre; font-family: Arial-BoldMT, Arial; font-size: 14px; font-weight: 700; line-height: 22.4px; perspective-origin: 17.8906px 0px;">Heart</text>
+      <path class="cls-3" d="M39,20.87l-5.15-4a3.25,3.25,0,0,1-.41-.42,2.64,2.64,0,0,1,3.68-3.75L43,17.31C41.58,18.65,40.1,19.92,39,20.87Z" style="fill: rgb(223, 132, 124); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+      <path class="cls-3" d="M46.79,13.07a13.46,13.46,0,0,1-1.45,1.84l-3.9-6.29A2.81,2.81,0,0,1,42,5a1.35,1.35,0,0,1,.27-.2,2.82,2.82,0,0,1,3.77.61L49,9.06C48.14,10.68,47.35,12.16,46.79,13.07Z" style="fill: rgb(223, 132, 124); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+      <path class="cls-3" d="M61.63,25.09a16.25,16.25,0,0,0-4.86,2A12.69,12.69,0,0,0,54.4,25.2L56.81,19Z" style="fill: rgb(223, 132, 124); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+      <path class="cls-4" d="M64.53,12,64,13.66a2.73,2.73,0,0,1-2.48,1.93l-3.46.17L56.81,19,54.4,25.2a19.47,19.47,0,0,0-3.8-1.87A24.81,24.81,0,0,0,40.46,22a32.53,32.53,0,0,0-3.33.39s.76-.6,1.85-1.54,2.6-2.22,4-3.55c.86-.82,1.7-1.66,2.38-2.41a12.37,12.37,0,0,0,1.45-1.85c.55-.9,1.35-2.38,2.18-4,1.13-2.12,2.32-4.51,3.17-6.25A3.27,3.27,0,0,1,56,1.14l1,.32A3.23,3.23,0,0,1,59.3,4.77l-.15,2.61L62.73,8.5A2.8,2.8,0,0,1,64.53,12Z" style="fill: rgb(137, 211, 221); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+      <path class="cls-5" d="M26.59,97.55C.05,82.56,3.67,31.48,33.26,23.28a37.72,37.72,0,0,1,3.87-.88c1.17-.18,2.27-.31,3.32-.37a24.26,24.26,0,0,1,10.14,1.31A19.34,19.34,0,0,1,54.4,25.2a12.69,12.69,0,0,1,2.37,1.88,16.25,16.25,0,0,1,4.86-2c4.3-1,10.69-.64,15.69,7.62a13.75,13.75,0,0,1,.9,12.76L73,43.35s-1.39-4.4-4.22-5.13-5,2.25-5,2.25c5.44,9.61,3.68,18.11,3.68,18.11C68,63.16,40.31,105.29,26.59,97.55Z" style="fill: rgb(244, 170, 149); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+      <path class="cls-3" d="M72.59,54l0,0-5.08,4.64s1.76-8.5-3.68-18.11c0,0,2.14-3,5-2.25S73,43.35,73,43.35l5.25,2.12,3.57,1.43A3.06,3.06,0,0,1,83.49,51l-1,2.5A3.08,3.08,0,0,1,79,55.29Z" style="fill: rgb(223, 132, 124); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    </symbol>
+    <symbol id="Kidney" data-name="Kidney" viewBox="0 0 90 112.16">
+      <circle class="cls-1" cx="45" cy="67.15" r="45" style="fill: rgb(253, 234, 191);"/>
+      <path class="cls-2" d="M67.18,43.06c0,29.47-21.82,45.64-38.48,33.38C14.53,66,27.21,52.11,27.21,52.11a15.56,15.56,0,0,1-2.79-5.29,12.87,12.87,0,0,1-.52-2.53c0-.29,0-.6-.06-.92s0-.72,0-1.07a9.59,9.59,0,0,1,.54-2.54,10.44,10.44,0,0,1,3-4.36s-9.28-.25-12.83-10.63C11.56,16.07,16.35.05,35.8,1,56.74,2.11,67.18,28.52,67.18,43.06Z" style="fill: rgb(240, 210, 202); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+      <path class="cls-3" d="M23.84,43.37c0,.32,0,.63.06.92h-.14A16.11,16.11,0,0,1,18,43.08a14.9,14.9,0,0,1-8.63-9.93,2.3,2.3,0,0,1,4.49-1,10.36,10.36,0,0,0,10.1,7.58,2.63,2.63,0,0,1,.49.07,9.59,9.59,0,0,0-.54,2.54C23.84,42.65,23.83,43,23.84,43.37Z" style="fill: rgb(143, 213, 222); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+      <path class="cls-4" d="M24.42,46.82l-.27.06-5.56.76a5.5,5.5,0,0,0-4.73,5.42V87.3a2.3,2.3,0,0,1-4.6,0V53.06a10.13,10.13,0,0,1,8.69-10h0l5.55-.77h.34c0,.35,0,.71,0,1.07s0,.63.06.92A12.87,12.87,0,0,0,24.42,46.82Z" style="fill: rgb(245, 171, 150); stroke: rgb(195, 74, 41); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+      <text class="cls-5" transform="translate(22.05 99.77)" style="white-space: pre; font-family: Arial-BoldMT, Arial; font-size: 14px; font-weight: 700; line-height: 22.4px; perspective-origin: 23.3281px 0px;">Kidney</text>
+    </symbol>
+  </defs>
+  <g id="Ebene_2" data-name="Ebene 2" transform="matrix(1, 0, 0, 1, 6.263659, 5.232596)">
+    <g id="Icons">
+      <use width="90" height="123.7" transform="matrix(1.2000000476837158, 0, 0, 1.2000000476837158, 0, 0)" xlink:href="#Heart"/>
+    </g>
+  </g>
+  <g id="g-1" data-name="Ebene 2" transform="matrix(1, 0, 0, 1, 120.239578, 82.806129)">
+    <g id="g-2">
+      <use width="90" height="112.15" transform="matrix(1.2, 0, 0, 1.2, -29.385046, -20.626709)" xlink:href="#Kidney"/>
+    </g>
+  </g>
+</svg>
