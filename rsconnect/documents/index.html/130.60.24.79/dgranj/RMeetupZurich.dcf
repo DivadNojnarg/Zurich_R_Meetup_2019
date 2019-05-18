@@ -1,0 +1,10 @@
+name: RMeetupZurich
+title: RMeetupZurich
+username: dgranj
+account: dgranj
+server: 130.60.24.79
+hostUrl: http://130.60.24.79:3939/__api__
+appId: 6
+bundleId: 10
+url: http://130.60.24.79:3939/webslides/
+when: 1558173686.30129
