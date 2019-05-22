@@ -1,0 +1,12 @@
+name: basicshinydemo
+title: basicShinyDemo
+username: dgranj
+account: dgranj
+server: 130.60.24.79
+hostUrl: http://130.60.24.79:3939/__api__
+appId: 7
+bundleId: 11
+url: http://130.60.24.79:3939/content/7/
+when: 1558508216.65256
+asMultiple: FALSE
+asStatic: FALSE

@@ -5,6 +5,6 @@ account: dgranj
 server: 130.60.24.79
 hostUrl: http://130.60.24.79:3939/__api__
 appId: 6
-bundleId: 10
-url: http://130.60.24.79:3939/webslides/
-when: 1558173686.30129
+bundleId: 17
+url: http://130.60.24.79:3939/RMeetupZurich2019/
+when: 1558514701.3655
