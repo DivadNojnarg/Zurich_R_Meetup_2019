@@ -180,14 +180,6 @@
 
 
 
-           <section>
-            <span class="background" style="background-image:url('static/images/rinterfaceWebsite.png'); opacity: 0.8; background-size: 100% 100%;"></span>
-            <!-- .end .wrap -->
-          </section>
-
-
-
-
           <section>
             <!--.wrap = container (width: 90%) -->
             <div class="wrap">
@@ -218,6 +210,15 @@
                  </ul>
               </div>
             </div>
+            <!-- .end .wrap -->
+          </section>
+          
+          
+          
+          
+          
+          <section>
+            <span class="background" style="background-image:url('static/images/rinterfaceWebsite.png'); opacity: 0.8; background-size: 100% 100%;"></span>
             <!-- .end .wrap -->
           </section>
           
@@ -389,7 +390,7 @@
               <li>
                 <a href="https://github.com/JohnCoene/waiter" title="Waiter">
                   <figure>
-                    <img alt="Waiter's package" src="static/images/waiter.png">
+                    <img alt="Waiter's package" src="static/images/waiter.png" width="50%">
                     <figcaption>
                       <h2>waiter</h2>
                     </figcaption>
@@ -399,7 +400,7 @@
               <li>
                 <a href="https://github.com/JohnCoene/pushbar" title="Pushbar">
                   <figure>
-                    <img alt="Thumbnail Landings" src="static/images/pushbar.png">
+                    <img alt="Thumbnail Landings" src="static/images/pushbar.png" width="50%">
                     <figcaption>
                       <h2>Pushbar</h2>
                     </figcaption>
@@ -564,43 +565,12 @@ class Game extends React.Component {
           <p>An <a href="https://github.com/webslides/webslides">open source solution</a>, by <a href="https://twitter.com/webslides">@webslides</a>.</p>
         </div>
       </footer>  -->
-      
-      <!-- Hide header when we are in the showcase -->
-      <script src="static/js/jquery.min.js"></script>
-      <!--<script>
-      $(document).keydown(function(e){
-        // left or right directional arrows
-        if (e.keyCode == 37 || e.keyCode == 39) { 
-          alert("key pressed");
-          // actually the patient slide is number 9 but
-          // the event is triggered after leaving slide 8, 
-          // therefore we need to select slide 8 so that jQuery
-          // acts on slide 9. This also works by going back from slide 10
-          // to 9.
-          var prevPatientSimSlide = $("#section-8");
-          var aftPatientSimSlide = $("#section-10");
-          var prevActive = prevPatientSimSlide.hasClass("current");
-          var aftActive = aftPatientSimSlide.hasClass("current");
-          if (prevActive || aftActive) {
-            $("header").css('visibility', 'hidden');
-            //$("#navigation").css('visibility', 'hidden');
-          } else {
-            $("header").css('visibility', 'visible');
-            //$("#navigation").css('visibility', 'visible');
-          }
-        }
-      });
-      </script> -->
 
       <!-- Required -->
       <script src="static/js/webslides.js"></script>
       <script>
       window.ws = new WebSlides();
       </script>
-      
-      <!-- Optional - Syntax highlight -->
-      <script src="static/js/highlight.pack.js"></script>
-      <script>hljs.initHighlightingOnLoad();</script>
 
       <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
       <script defer src="static/js/svg-icons.js"></script>
